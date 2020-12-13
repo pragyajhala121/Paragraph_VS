@@ -1,10 +1,11 @@
-.p1{
-
+.p1
+{
 color: rgb(255, 0, 76);
 background-color: rgb(255, 159, 95);
 }
-.p2{
-    
+
+.p2
+{
     color:  rgb(255, 0, 76);
     background-color:  rgb(255, 159, 95);
 }
@@ -15,6 +16,7 @@ background-color: rgb(255, 159, 95);
     margin-bottom: 20px; 
     background-color:rgb(255, 145, 125);
 }
+
 #box2
 {
 	margin-top: 20px; 
@@ -26,7 +28,14 @@ input
 {
 	margin: 10px;
 }
-#paragraph{
-    display: inline;
-    float: left;
+
+#paragraph1
+{
+    width: 50%;
+    display: inline;   
+}
+#paragraph2
+{
+    width: 50%;
+    display: inline;   
 }
